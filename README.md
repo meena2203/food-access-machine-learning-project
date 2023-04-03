@@ -2,8 +2,7 @@
 ![website_background](static/img/top_pic.png)
  
 # Overview
-Sociodemographic risk factors such as low income, unemployment, race/ethnicity,
-and disability may predispose people to food insecurity, which is the limited access to healthy food in terms of distance or affordability. people experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental Problems, and poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million households being affected at least part of the year in 2020. (Source: [HHS](https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity))
+Sociodemographic risk factors such as low income, unemployment, race/ethnicity, and disability may predispose people to food insecurity, which is the limited access to healthy food in terms of distance or affordability. People experiencing food insecurity are at higher risk of obesity, chronic diseases, developmental problems, and poor mental health. Food insecurity is a wide-spread problem with 13.8 million out of 128.6 million households being affected at least part of the year in 2020. (Source: [HHS](https://health.gov/healthypeople/priority-areas/social-determinants-health/literature-summaries/food-insecurity))
 
 For the Food Equity ML project, we conducted an analysis of food insecurity for populations within a 1/2 mile radius for urban census tracts and a 10-mile radius for rural census tracts to identify potential sociodemographic risk factors. To accomplish this, we applied machine learning algorithms to analyze data from the Food Access Research Atlas published by the US Department of Agriculture (UDSA).
 We further analyzed the data using geospatial mapping and data visualization tools to explore the dataset for corresponding results. 
